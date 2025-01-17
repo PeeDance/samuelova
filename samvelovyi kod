@@ -5,5 +5,5 @@ console.writeline("lol")
 }
 else
 {
-console.writeline("умри тварь")
+console.writeline("неправда")
 }
