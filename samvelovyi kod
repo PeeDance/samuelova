@@ -3,3 +3,7 @@ if (x=="lol")
 {
 console.writeline("lol")
 }
+else
+{
+console.writeline("неправда")
+}
